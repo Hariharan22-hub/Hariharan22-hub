@@ -1,143 +1,109 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Hariharan P V
+# Hi, I'm Hariharan 👋
 
-### Electronics & Communication Engineering Student | AI & Full-Stack Developer
+I'm an Electronics and Communication Engineering student who enjoys building intelligent software systems.
 
-I enjoy building practical software that combines **Artificial Intelligence**, **Backend Engineering**, and **Modern Web Development** to solve real-world problems.
+Most of my work combines Artificial Intelligence, backend engineering, and modern web technologies to build applications that solve practical problems.
 
-Currently focused on developing intelligent applications using **Python**, **FastAPI**, **React**, and **LLMs**, while continuously expanding my knowledge of cloud technologies and scalable system design.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.E. Electronics & Communication Engineering
-* 💡 Passionate about Artificial Intelligence & Software Development
-* 🧠 Interested in LLMs, Automation, Backend Systems, and Intelligent Applications
-* 🌱 Currently learning Docker, Kubernetes, AWS, and System Design
-* 🎯 Goal: Build production-ready AI products that solve meaningful problems
+Currently, I'm focused on AI-powered applications, backend architecture, and learning how to design production-ready software.
 
 ---
 
-## 🛠 Tech Stack
+## Current Focus
+
+* Building AI-powered applications
+* Backend development with FastAPI
+* React frontend development
+* Learning Docker, Kubernetes, and AWS
+* Improving software architecture and system design
+
+---
+
+## Featured Projects
+
+### Employee Feedback AI Agent
+
+An AI-powered platform that analyzes employee feedback using natural language processing and large language models.
+
+**Tech**
+
+* Python
+* FastAPI
+* React
+* Gemini AI
+* JWT Authentication
+* SQLite
+
+---
+
+### AI Software Development Assistant
+
+A developer assistant that helps with code generation, explanation, debugging, and documentation using generative AI.
+
+**Tech**
+
+* Python
+* FastAPI
+* React
+* REST APIs
+* LLM Integration
+
+---
+
+### Self-Healing Wireless Sensor Network
+
+A research-oriented project that detects network failures and automatically restores communication paths within wireless sensor networks.
+
+**Focus**
+
+* AI
+* Network Routing
+* Fault Detection
+* Wireless Communication
+
+---
+
+## Technologies
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css" />
-</p>
+Python • Java • JavaScript • C • HTML • CSS
 
-### Frameworks & Libraries
+### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs" />
-</p>
+FastAPI • React
 
-### Database
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+MySQL • SQLite
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-</p>
+Git • GitHub • Docker • VS Code • Postman
 
 ---
 
-# 💼 Featured Projects
+## Currently Learning
 
-## 🤖 Employee Feedback AI Agent
-
-An AI-powered feedback analysis platform that helps organizations understand employee sentiment using Natural Language Processing and Generative AI.
-
-**Highlights**
-
-* AI sentiment analysis
-* Emotion detection
-* Gemini AI integration
-* FastAPI backend
-* React frontend
-* JWT Authentication
-
----
-
-## 💻 AI Software Development Assistant
-
-A developer assistant capable of assisting with software engineering workflows using Large Language Models.
-
-**Features**
-
-* Code generation
-* Code explanation
-* Bug fixing assistance
-* Documentation generation
-* AI-powered suggestions
-
----
-
-## 📈 Currently Learning
-
-* Large Language Models
-* Prompt Engineering
 * Docker
 * Kubernetes
-* AWS Cloud
+* AWS
 * System Design
-* CI/CD
-* REST API Architecture
+* Large Language Models
 
 ---
 
-# 📊 GitHub Analytics
+## Goals
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariharan22-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariharan22-hub&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan22-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+* Build useful AI products
+* Contribute to open source
+* Publish high-quality software projects
+* Become a Software Engineer
 
 ---
 
-# 🏆 Goals for 2026
+## Find Me
 
-* Build impactful AI products
-* Contribute to Open Source
-* Master Cloud & DevOps
-* Publish high-quality technical projects
-* Secure a Software Development role
+* LinkedIn
+* Email
 
----
-
-# 🤝 Let's Connect
-
-<p>
-
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hariharan-p-v-868064314/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hariharan22.palani@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### *"Great software isn't just written — it's engineered."*
-
-⭐ Thanks for visiting my profile.
-
-</div>
+Thanks for stopping by.
