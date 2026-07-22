@@ -90,24 +90,6 @@ A developer assistant capable of assisting with software engineering workflows u
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariharan22-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariharan22-hub&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan22-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🏆 Goals for 2026
 
 * Build impactful AI products
