@@ -122,7 +122,7 @@ A developer assistant capable of assisting with software engineering workflows u
 
 <p>
 
-<a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/hariharan-p-v-868064314/)">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hariharan-p-v-868064314/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
