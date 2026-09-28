@@ -4,7 +4,7 @@
 
 I enjoy building practical software that combines **Artificial Intelligence**, **Backend Engineering**, and **Modern Web Development** to solve real-world problems.
 
-Currently focused on developing intelligent applications using **Python**, **FastAPI**, **React**, and **LLMs**, while continuously expanding my knowledge of cloud technologies and scalable system design.
+Currently focused on developing intelligent applications using **Java**, **React**, and **LLMs**, while continuously expanding my knowledge of cloud technologies and scalable system design.
 
 ---
 
